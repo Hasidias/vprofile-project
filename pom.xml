@@ -14,8 +14,8 @@
 
    <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>openjdk-22</maven.compiler.source>
-    <maven.compiler.target>openjdk-22</maven.compiler.target>
+    <maven.compiler.source>openjdk22</maven.compiler.source>
+    <maven.compiler.target>openjdk22</maven.compiler.target>
   </properties>
 
   <dependencies>
